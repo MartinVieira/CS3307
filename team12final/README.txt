@@ -6,3 +6,5 @@ After this, to run the program, please copy and paste the code below.
 
 ./main --docroot /usr/local/share/Wt --http-address 0.0.0.0 --http-port 8080
 
+You must be running the hue emulator from https://github.com/SteveyO/Hue-Emulator for the changes to take effect.
+
